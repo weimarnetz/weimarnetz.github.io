@@ -3,6 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+:github_url: https://github.com/weimarnetz/weimarnetz.github.io/blob/master/docs/index.rst 
+
 Welcome to weimarnetz's documentation!
 ======================================
 
